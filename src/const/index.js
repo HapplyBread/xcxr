@@ -1,0 +1,1 @@
+export const imgUrl = 'src/assets/img/pano'

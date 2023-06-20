@@ -2,8 +2,7 @@
 
 #### 介绍
 全景+vue3+vite+three  
-demo website: http://wangfugui.online/
-如果感觉还不错，幸苦各位点赞
+https://threejs.org/
 
 #### 软件架构
 全景+vue3+vite+three

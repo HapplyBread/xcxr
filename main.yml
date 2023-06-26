@@ -12,8 +12,8 @@ jobs:
     - name: Build
       run: |
         # 这里是构建你的网站的命令，例如：
-        # npm install
-        # npm run build
+        npm install
+        npm run build
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
